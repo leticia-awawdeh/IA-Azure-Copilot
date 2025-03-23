@@ -1,5 +1,5 @@
 
-### Azure Cognitive Search
+# Azure Cognitive Search
 
 A seguir, apresento uma simulação de como utilizar o Azure Cognitive Search com AI Search para indexação e consulta de dados. Essa simulação contempla a criação de um índice, o envio de documentos para indexação (com enriquecimento via skills se necessário) e a realização de uma consulta simples.
 
